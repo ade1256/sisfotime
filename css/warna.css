@@ -1,0 +1,88 @@
+/* Fonts Dari Google : Internet Required */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
+
+
+/* NAVBAR WARNA */
+.aktif{
+	font-family: 'Open Sans', sans-serif;
+	border-color: #FF7416;
+	color: #FF7416;
+
+}
+
+
+.navbar-default .navbar-nav > .aktif > a,
+.navbar-default .navbar-nav > .aktif > a:hover{
+ color: #FF7416;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #FF7416;
+  background-color: transparent;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: ;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: ;
+    background-color: ;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: ;
+    background-color: ;
+  }
+  /* END NAVBAR WARNA */
+#geser .caption {
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+#geser .caption h1 {
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+.tulisan {
+	color: #fff;
+	font-family: 'Helvetica', sans-serif;
+}
+.btn-start{
+    background-color: #FF7416;
+    
+    
+}
+.text-warna{
+	
+	color: #D91E18;
+}
+.icon-ijo{
+	color: #26C281;
+}
+.bottom-footer{
+	background-color: #222;
+	color: #fff;
+}
+
+.judul-footer{
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+}
+
+
+
